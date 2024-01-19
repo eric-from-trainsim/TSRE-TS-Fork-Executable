@@ -1,0 +1,67 @@
+consoleOutput = false
+#gameRoot = MSTS/ORTS folder containing \Routes
+
+#Code this out for the menu
+#routeName = 
+
+# optional start tile
+#startTileX = 12345
+#startTileY = 12345
+#hudEnabled = true
+
+#createNewIfNotExist = true
+writeEnabled = true
+writeTDB = true
+loadAllWFiles = false
+autoFix = true
+
+# geo data
+# geoPath = where your HGT/SRTM data is
+
+#misc
+#systemTheme = true
+#colorConView = #FF0000
+#colorShapeView = #00FF00
+#toolsHidden = true
+usenNumPad = true
+tileLod = 1
+objectLod = 4000
+maxObjLag = 10
+allowObjLag = 1000
+#cameraFov = 20.0
+warningBox = true
+leaveTrackShapeAfterDelete = false
+renderTrItems = true
+useTdbEmptyItems = false
+
+
+#useImperial = false
+#ortsEngEnable = false
+#oglDefaultLineWidth = 2
+shadowsEnabled = false
+ignoreMissingGlobalShapes = true
+snapableOnlyRot = false
+# google           
+# imageMapsUrl = http://maps.googleapis.com/maps/api/staticmap?center={lat},{lon}&zoom={zoom}&size={res}x{res}&maptype=satellite&key=your API Code
+
+# new MapBox z17   imageMapsUrl = https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/{lon},{lat},16/{res}x{res}?access_token=+YOUR_MAPBOX_ACCESS_TOKEN
+
+# Zoom value after lat/long... Z17 = 16    z18 = 17
+
+#AASamples = 16
+#apImageResolution = 2048
+cameraStickToTerrain = true
+#useOnlyPositiveQuaternions = true
+numRecentItems = 30
+
+defaultElevationBox = 0
+defaultMoveStep = 0.25
+
+wireLineHeight = 3.2
+sectionLineHeight = 4
+terrainSize = 1
+terrainEmbankment = 2
+terrainCut = 2
+terrainRadius = 9
+terrainBrushSize = 1
+terrainBrushIntensity = 12
