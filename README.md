@@ -17,3 +17,4 @@ exposed static detail level (custom detail level) on signals
           yellow/grey TDB/TSection line height defined in Settings.txt
           Values for terrain brush size/intensity, and embankment size/cut/fill/radius defined in Settings.txt
           Always launch TSRE on primary monitor (fixes window loading error when using multiple monitors)
+
