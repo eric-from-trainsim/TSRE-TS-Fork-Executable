@@ -6,7 +6,7 @@ There are some new setting tokens included in the Settings.txt file.
 
 ------------------------------------------------------------------------------------------
 
-v0.8.004: 
+v0.8.002: 
 
           Increased decimals available on Dynamic track
           
@@ -14,9 +14,8 @@ v0.8.004:
           
           Modified log.txt to include date and timestamp and added prefix "tsre"
           
-          Modified color for patch and world object selection (was blue, now orange)
+          Modified line weight and color for patch and world object selection (configurable in Settings)
           
-v0.8.002: 
           Exposed static detail level (custom detail level) on signals
           
           Line height for yellow/grey TDB/TSection now configurable in Settings.txt
